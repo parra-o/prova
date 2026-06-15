@@ -1,0 +1,26 @@
+[
+    {
+        "bookingID": "BOOK-5001",
+        "guestID": "GUEST-2025002",
+        "roomNumber": "205",
+        "checkInDate": "2025-10-24",
+        "checkOutDate": "2025-10-27",
+        "totalRoomCost": 360.00
+    },
+    {
+        "bookingID": "BOOK-5002",
+        "guestID": "GUEST-2025001",
+        "roomNumber": "101",
+        "checkInDate": "2025-11-15",
+        "checkOutDate": "2025-11-20",
+        "totalRoomCost": 425.00
+    },
+    {
+        "bookingID": "BOOK-5003",
+        "guestID": "GUEST-2025003",
+        "roomNumber": "301",
+        "checkInDate": "2025-10-24",
+        "checkOutDate": "2025-10-25",
+        "totalRoomCost": 250.00
+    }
+]
