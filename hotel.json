@@ -1,0 +1,39 @@
+{
+  "guests": [
+    {
+      "guestID": "GUEST-2025001",
+      "firstName": "Anna",
+      "lastName": "Ribes",
+      "idNumber": "12345678A",
+      "email": "anna.ribes@mail.com",
+      "phone": "600111222"
+    }
+  ],
+  "rooms": [
+    {
+      "roomNumber": "101",
+      "roomType": "Single",
+      "pricePerNight": 85.00,
+      "status": "Available",
+      "lastCleaningDate": "2026-01-14",
+      "bookings": [
+        {
+          "bookingID": "BOOK-5002",
+          "guestID": "GUEST-2025001",
+          "checkInDate": "2025-11-15",
+          "checkOutDate": "2025-11-20",
+          "totalRoomCost": 425.00
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "serviceID": "SERV-001",
+      "bookingID": "BOOK-5002",
+      "description": "Restaurant Dinner (2 pax)",
+      "price": 75.50,
+      "date": "2025-10-25"
+    }
+  ]
+}
